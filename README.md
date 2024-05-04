@@ -1,8 +1,6 @@
 # EDA_Play-store-Review-Analysis
 **Capstone EDA Project**
-
 ![Play store](https://github.com/Sachinvt/EDA_Play-store-Review-Analysis/assets/140580938/a95eb6e7-c6b0-41d9-ae02-519e03396ad9)
-
 **Project Summary -**
 In the fiercely competitive Android app marketplace, the pursuit of success is a challenging endeavor. To equip app developers with the knowledge and strategies needed to thrive, this project sets out to explore the Android app ecosystem through the lens of data analysis. With access to two vital datasets—the Play Store app data and customer reviews—we aim to uncover the pivotal factors driving app engagement and success. Our data-driven approach, executed through a well-defined project architecture, holds the promise of delivering actionable insights that can revolutionize the way developers approach app creation and marketing.
 This project hinges on the exploitation of two primary datasets. The Play Store app data provides a comprehensive profile of each app, including category, rating, size, and other attributes. This information is a treasure trove for discerning trends in the Android app landscape. Additionally, the customer reviews dataset offers an invaluable collection of user feedback. These reviews serve as a direct window into the minds of Android users, offering opinions and insights that are crucial in understanding their preferences and sentiments.In order to draw meaningful insights from this data we need to perform exploratory data analysis(EDA).
