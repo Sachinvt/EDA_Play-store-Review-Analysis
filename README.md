@@ -1,5 +1,4 @@
 # EDA_Play-store-Review-Analysis
-**Capstone EDA Project**
 ![Play store](https://github.com/Sachinvt/EDA_Play-store-Review-Analysis/assets/140580938/629300bb-0e44-48cd-b751-02ff14959772)
 
 **Project Summary -**
